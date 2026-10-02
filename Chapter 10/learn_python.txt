@@ -1,0 +1,14 @@
+In Python i can learn about print meathod.
+In Python i can learn about deta types and variables.
+In Python i can learn about lower and upper cases and also title cases.
+In Python i can learn about how to remove prefixes and sufixes.
+In Python i can learn about how to remove strip from strings.
+In Python i can learn about list.
+In Python i can learn about adding removing and deleating item in list.
+In Python i can learn about looping through list.
+In Python i can learn about inputs and while loop.
+In Python i can learn about slice meathod len method and indentations.
+In Python i can learn about conditions.
+In Python i can learn if else statements.
+In Python i can learn about apperators.
+In Python i can learn about arithmetic operators.
