@@ -1,0 +1,2 @@
+Path of BBY
+D:\Python Programing\PCC_3e\pcc_3e-main\solution_files\chapter_20\ex_20_3_live_blog\blogs\templates\blogs
